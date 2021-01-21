@@ -9,6 +9,8 @@
   "permissions": [
     "http://*.youku.com/*",
     "https://*.youku.com/*",
+    "http://*.rr.tv/*",
+    "https://*.rr.tv/*",
     "http://*.sohu.com/*",
     "https://*.sohu.com/*",
     "http://*.tudou.com/*",
